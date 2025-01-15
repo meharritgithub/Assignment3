@@ -1,0 +1,14 @@
+
+body {
+    background-color: lightgray; /* Lowercase property and value */
+    font-family: Arial, sans-serif; /* Lowercase value */
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: blue; /* Lowercase property and value */
+    text-align: center;
+    font-size: 2rem; /* Lowercase value */
+    margin-top: 20px;
+}
